@@ -1,0 +1,18 @@
+<body>
+  <div class="section cc-store-home-wrap">
+    <div class="intro-header blog-preview-image">
+      <div class="intro-content"></div>
+    </div>
+    <div class="container">
+      <div class="main-heading-wrap">
+        <h1 class="heading">Welcome to Seventh Heaven</h1>
+      </div>
+      <div class="divider"></div>
+    </div>
+    <div class="container">
+      <div class="products-heading">
+        <h3>Featured Products</h3>
+        <div class="paragraph-bigger cc-bigger-light">Check out new and popular products</div>
+      </div>
+  </div>
+</body>
